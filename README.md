@@ -1,2 +1,2 @@
 # Relogio Digital
-<h1>Feito com html, css e javascript<h1> 
+<p1>Feito com html, css e javascript<p1> 
